@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Min applikation</string>
+    <string name="default_btn_text">Default Tekst</string>
+    <string name="cart">Indkøbskurv</string>
+    <string name="complete_purchase">Færdiggør ordre</string>
+    <string name="purchase_complete">Ordre færdiggjort</string>
+    <string name="clicked">Trykket</string>
+    <string name="checked">Valgt</string>
+    <string name="checked_off">Valgt fra</string>
+    <string name="coffee">Kaffe</string>
+    <string name="tea">The</string>
+    <string name="juice">Jooz</string>
+    <string name="cash">Kontant</string>
+    <string name="credit_card">Kreditkort</string>
+    <string name="paypal">Paypal</string>
+</resources>

@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="default_btn_text">Default Text</string>
+    <string name="cart">Cart</string>
+    <string name="complete_purchase">Complete purchase</string>
+    <string name="purchase_complete">Purchase complete</string>
+    <string name="clicked">Clicked</string>
+    <string name="checked">Checked</string>
+    <string name="checked_off">Checked off</string>
+    <string name="coffee">Coffee</string>
+    <string name="tea">Tea</string>
+    <string name="juice">Juice</string>
+    <string name="cash">Cash</string>
+    <string name="credit_card">Credit Card</string>
+    <string name="paypal">Paypal</string>
+</resources>
